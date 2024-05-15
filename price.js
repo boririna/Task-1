@@ -1,4 +1,5 @@
 // Предположительное время выполнения: 30 мин
+// Реальное время: 10 минут
 const totalPrice = ({ price, discount, isInstallment, months }) => {
     // Your code here...
     let totalPrice = 0;
